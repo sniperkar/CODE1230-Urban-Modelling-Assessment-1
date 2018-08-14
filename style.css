@@ -1,4 +1,4 @@
-a
+.topnav
 {
   color: transparent;
 background-color : blue;
@@ -51,7 +51,7 @@ font-size:24px;
 }
 
 img {
-max-width:50%;
+max-width:80%;
 }
 
 footer {
@@ -62,11 +62,7 @@ font-size:12px;
 }
 
 
-.topnav {
-position:fixed;
-  top:0;
-  background-color:#D9D9D9;
-}
+
 
 
 
