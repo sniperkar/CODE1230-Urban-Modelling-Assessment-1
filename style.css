@@ -44,14 +44,14 @@ p {
             }
 
 body {
-background: #D9D9D9;
+background: #b3ffff;
 text-align: center;
 font-family: Helvetica;
 font-size:24px;
 }
 
 img {
-max-width:25%;
+max-width:50%;
 }
 
 footer {
@@ -65,18 +65,10 @@ font-size:12px;
 .topnav {
 position:fixed;
   top:0;
-  background-color:#b3ffff;
+  background-color:#D9D9D9;
 }
 
-.topnav a {
-float: left;
-  display: block;
-  color: #8c8c8c;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration:none;
-  font-size:20px;
-}
+
 
 .topnav a:hover {
 background-color: #e6fff5;
