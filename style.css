@@ -44,7 +44,9 @@ p {
             }
 
 body {
-background: #b3ffff;
+background: #e6f3ff
+  rgb(230, 243, 255)
+  hsl(209, 100%, 95%);
 text-align: center;
 font-family: Helvetica;
 font-size:24px;
@@ -64,5 +66,7 @@ font-size:12px;
 
 
 .topnav a:hover {
-  color:#b3fff0;
+  color:#b3fff0
+    rgb(179, 255, 240)
+hsl(168, 100%, 85%);
 }
