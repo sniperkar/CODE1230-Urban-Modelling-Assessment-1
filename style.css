@@ -42,3 +42,43 @@ p {
                     background-position: 2000px 0;
                 }
             }
+
+body {
+background: #D9D9D9;
+text-align: center;
+font-family: Helvetica;
+font-size:24px;
+}
+
+img {
+max-width:25%;
+}
+
+footer {
+position: fixed;
+bottom: 0;  
+padding: 1%;
+font-size:12px;
+}
+
+
+.topnav {
+position:fixed;
+  top:0;
+  background-color:#b3ffff;
+}
+
+.topnav a {
+float: left;
+  display: block;
+  color: #8c8c8c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size:20px;
+}
+
+.topnav a:hover {
+background-color: #e6fff5;
+  color:#b3fff0;
+}
