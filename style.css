@@ -18,10 +18,16 @@ font-weight: bold;
 
 
 h8
-{
-         font-family:Georgia;
-         font-family:Arial;
-} 
+body 
+{     
+      width:auto; margin-top:12px; 
+      float:right; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+      font-size:11px; 
+      color:#999999;
+      line-height:25px;
+      letter-spacing:1px
+}
+
 
 
 
